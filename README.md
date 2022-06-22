@@ -1,0 +1,1 @@
+This repository concern the shell basics project
